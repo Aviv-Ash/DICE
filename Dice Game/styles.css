@@ -9,7 +9,9 @@
   display: inline-block;
 
 }
-
+.btn{
+  margin-top: 5%;
+}
 body {
   background-color: #393E46;
 }
